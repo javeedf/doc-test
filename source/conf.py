@@ -32,8 +32,8 @@
 extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
-#    'm2r',
-    'recommonmark',
+    'm2r',
+#    'recommonmark',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
